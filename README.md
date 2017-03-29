@@ -1,3 +1,5 @@
 # no-pain-no-gain
-Sport/MotorGP/Futsal/Volleyball
-Mitglieder: Tristan,Nils,Josh
+## Sport
+|MotorGP|Futsal|Volleyball|
+|---|---|---|
+|Tristan|Nils|Kyrill|
