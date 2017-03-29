@@ -2,4 +2,4 @@
 ## Thema: Sport
 |MotorGP|Futsal|Volleyball|
 |---|---|---|
-|Tristan|Nils|Josh|
+|Tristan|Nils|Kyrill|
