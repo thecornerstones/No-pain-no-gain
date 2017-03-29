@@ -1,3 +1,3 @@
 # no-pain-no-gain
-Sport/MotorGT/Futsal/Volleyball
+Sport/MotorGP/Futsal/Volleyball
 Mitglieder: Tristan,Nils,Josh
