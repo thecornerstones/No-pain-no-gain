@@ -7,7 +7,7 @@
 
 
 <h1> Volleyball<h1>
-## Regeln, allgemeine Informationen
+<h2> Regeln, allgemeine Informationen<h2>
 
 
 
