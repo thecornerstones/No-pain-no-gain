@@ -6,11 +6,9 @@
 
 
 
-# Volleyball
+<h1> Volleyball<h1>
 ## Regeln, allgemeine Informationen
-verschiedene Arten
-Mixed-Volleyball
-Beach-Volleyball
+
 
 
 
