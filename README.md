@@ -7,7 +7,8 @@
 
 
 <h1> Volleyball<h1>
-<h2> Regeln, allgemeine Informationen<h2>
+<h2> Geschichte<h2>
+Volleyball ist eine weitverbreite Sportart die 1895 von  William G. Morgan erfunden wurde, aber in einer anderen Form bekannt wurde.
 
 
 
