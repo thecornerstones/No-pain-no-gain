@@ -8,7 +8,7 @@
 
 <h1> Volleyball<h1>
 <h2> Geschichte<h2>
-<h5>Volleyball ist eine weitverbreite Sportart die 1895 von  William G. Morgan erfunden wurde, aber in einer anderen Form bekannt wurde.<h5>
+<h5>Volleyball ist eine weitverbreite Sportart die 1895 von William G. Morgan erfunden wurde, aber in einer anderen Form bekannt wurde. Zuerst hieß es Mintonette und erst später wurde bei einer Sportkonferenz entschieden, es in Volleyball umzubenennen. Da der Ball in der Luft immer direkt gespielt wird heisst es Volleyball.<h5>
 
 <h1> Isle of man tt </h1>
 <h2> Allgemeine Informationen </h2> 
