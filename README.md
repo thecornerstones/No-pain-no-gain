@@ -1,6 +1,6 @@
 # Gruppe: no-pain-no-gain
 ## Thema: Sport
-|MotorGP|Futsal|Volleyball|
+|MotoGP|Futsal|Volleyball|
 |---|---|---|
 |Tristan|Nils|Josh|
 
