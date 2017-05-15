@@ -12,13 +12,18 @@
 <h2>Algemeines und Regeln</h2>
 <h4>Das Spielfeld ist 18 Meter lang und 9 Meter breit. Das heisst jede Mannschaft spielt auf einem Feld von 9*9 Metern. DAs jeweilige Feld wird durch ein Netz in der Mitte getrennt. Bei Männern ist das Netz 2,43 Meter hoch und bei Frauen nur 2,24 Meter hoch.
 Im Laufe der letzen Jahre wurde die Rotationsregel eingeführt. Das bedeutet, dass nach dem eine Mannschaft, nach einem Fehler ihrerseits, einen Punkt gemacht hat, jeder in seiner Position, eine Position nach rechts, also in Uhrzeigersinn rotiert.
+
 <h1> Isle of man tt </h1>
+
 <h2> Allgemeine Informationen </h2> 
+
 <h4> Das TT in Isle of man steht für Tourist Trophy.
 seit 1907
 das älteste, gefährlichste und umstrittentes Motorradrennen der Welt!
 seit 1911 sind 252 Rennfahrer gestorben. </h4>
+
 <h2> Strecke </h2>
+
 <h4> Die Strecke besteht aus normalen Straßen, welche um einen Berg gehen. Der Kurs wird Snaefell Mountain Course.
 Die Strecke ist eine der bedeutesten Rennen. In Douglas beginnt und endet das Rennen. Die Länge der Strecke beträgt 60.725 KM.
 Durch die lange Stecke ist es den Fahrern unmöglich sich alle Bremmspunkte zu merken. Dadurch entstehen hohe Anforderungen an den Fahrer und an die Motorräder.
@@ -28,11 +33,15 @@ Die Durchschnittsgeschwindigkeit des Rennens beträgt 130 mph bzw. 209 Km/h. Bei
 Aufgrund der wenigen Schutz- und Auffangkissen gab es seit 2000 21 Tode.
 Ein weiterer Grund dafür ist, dass die Strecke an Häusern, Steinwänden und Stacheldrähten vorbeiführt.
 Für Privatfahrer ist die Strecke am Mad Sunday geöffnet. </h4>
+
 <h2> Erfolge und Rekorde </h2>
+
 <h4> Joey Dunlop ist mit 26 Siegen der erfolgreicheste Fahrer der Isle of man tt. Jedoch verstrab dieser im Jahr 2000 bei einem Straßenrennen in Irland.
 John Mc Guiness hat mit seiner Honda CBR 1000 RR in 17 Minuten und 3.567 Sekunden mit einer Durchschnittsgeschwindigkeit von 214 Km/h die Strecke am schnellsten umfahren. Jedoch ist dieser Rekord nicht der schnellste, sondern nur der aktuellste, da Dunlop, welcher gestorben ist, seine Runde in 16.53959 Minuten mit einer Durchschnittsgeschwindigkeit von 216 Km/h umrundet hat.
 Der erfolgreicheste deutsche Rennenfahrer Siegfried Schauzu hat bisher neun Mal gewonnen. </h4>
+
 <h2> Extrafakt </h2>
+
 <h4> Der Audi TT ist nach der Isle of man benannt. </h4>
 
 <h1> MotoGP </h1>
