@@ -9,8 +9,9 @@
 <h1> Volleyball</h1>
 <h2> Geschichte</h2>
 <h4>Volleyball ist eine weitverbreite Sportart die 1895 von William G. Morganin in Holyoke erfunden wurde, aber in einer anderen Form bekannt wurde. Zuerst hieß es Mintonette und erst später im Jahre 1896, wurde bei einer Sportkonferenz entschieden, es in Volleyball umzubenennen. Da der Ball in der Luft immer direkt gespielt wird heisst es Volleyball. In den nächsten Jahren verbreitete sich diese Sportart in ganz Europa. 1924 wurde dann schließlich Volleyball erstmals bei den olympischen Spielen als Demonstrationssport vorgestellt. Das heißt, dass die Sportart nur vorübergehend gespielt wurde um zu sehen ob die Sportart bei dem Publikum ankam. In den laufenden Jahren bis zum 20. Jahrhundert verbreitete sich Volleyball bis über den ganzen Kontinent. In diesen Jahren kamen immer wieder neue Technicken hinzu wie das Baggern oder das Pritschen aber auch neue Regeln wurden erfunden oder entfernt.</h4>
-<h2>Regeln</h2>
-<h4>
+<h2>Algemeines und Regeln</h2>
+<h4>Das Spielfeld ist 18 Meter lang und 9 Meter breit. Das heisst jede Mannschaft spielt auf einem Feld von 9*9 Metern. DAs jeweilige Feld wird durch ein Netz in der Mitte getrennt. Bei Männern ist das Netz 2,43 Meter hoch und bei Frauen nur 2,24 Meter hoch.
+Im Laufe der letzen Jahre wurde die Rotationsregel eingeführt. Das bedeutet, dass nach dem eine Mannschaft, nach einem Fehler ihrerseits, einen Punkt gemacht hat, jeder in seiner Position, eine Position nach rechts, also in Uhrzeigersinn rotiert.
 <h1> Isle of man tt </h1>
 <h2> Allgemeine Informationen </h2> 
 <h4> Das TT in Isle of man steht für Tourist Trophy.
