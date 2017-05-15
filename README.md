@@ -1,4 +1,4 @@
-l# Gruppe: no-pain-no-gain
+# Gruppe: no-pain-no-gain
 ## Thema: Sport
 |MotorGP|Futsal|Volleyball|
 |---|---|---|
@@ -9,7 +9,7 @@ l# Gruppe: no-pain-no-gain
 <h1> Volleyball</h1>
 <h2> Geschichte</h2>
 <h4>Volleyball ist eine weitverbreite Sportart die 1895 von William G. Morganin in Holyoke erfunden wurde, aber in einer anderen Form bekannt wurde. Zuerst hieß es Mintonette und erst später im Jahre 1896, wurde bei einer Sportkonferenz entschieden, es in Volleyball umzubenennen. Da der Ball in der Luft immer direkt gespielt wird heisst es Volleyball. In den nächsten Jahren verbreitete sich diese Sportart in ganz Europa. 1924 wurde dann schließlich Volleyball erstmals bei den olympischen Spielen als Demonstrationssport vorgestellt. Das heißt, dass die Sportart nur vorübergehend gespielt wurde um zu sehen ob die Sportart bei dem Publikum ankam. In den laufenden Jahren bis zum 20. Jahrhundert verbreitete sich Volleyball bis über den ganzen Kontinent. In diesen Jahren kamen immer wieder neue Technicken hinzu wie das Baggern oder das Pritschen aber auch neue Regeln wurden erfunden oder entfernt.</h4>
-<h2>Allgemeines und Regeln</h2>
+<h2>Algemeines und Regeln</h2>
 <h4>Das Spielfeld ist 18 Meter lang und 9 Meter breit. Das heisst jede Mannschaft spielt auf einem Feld von 9*9 Metern. DAs jeweilige Feld wird durch ein Netz in der Mitte getrennt. Bei Männern ist das Netz 2,43 Meter hoch und bei Frauen nur 2,24 Meter hoch.
 Im Laufe der letzen Jahre wurde die Rotationsregel eingeführt. Das bedeutet, dass nach dem eine Mannschaft, nach einem Fehler ihrerseits, einen Punkt gemacht hat, jeder in seiner Position, eine Position nach rechts, also in Uhrzeigersinn rotiert.
 <h1> Isle of man tt </h1>
@@ -35,8 +35,11 @@ Der erfolgreicheste deutsche Rennenfahrer Siegfried Schauzu hat bisher neun Mal 
 <h2> Extrafakt </h2>
 <h4> Der Audi TT ist nach der Isle of man benannt. </h4>
 
-
-
-
-
-<h1 id="motorradsport">Motorradsport</h1><h2 id="motorgp">MotorGP</h2><h2 id="isle-of-man-tt">Isle of Man TT</h2>
+<h1> MotoGP </h1>
+<h2> Allgemeines </h2>
+<h4> Die MotoGP gehört zum Strapenrennsport mit deder höchsten Rennklasse. Seit 2002 wurde die 500-cm*3-Klasse von 1949 abgelöst druch die MotoGP.  </h4>
+<h2> Regeln </h2>
+<h4> In der MotoGP sind nur 4Takter Prototypen ohne Aufladung erlaubt. Zudem ist ein Hubraum von maximal 1000cm*3. Es sind höchstens 4 Zylinder erlaubt, welche eine Bohrtiefe von 81 mm haben dürfen. Seit 2013 ist das Mindestgewicht von 153 Kg auf   160 Kg angehoben worden. Aktuell liegt das mindest Gewicht bei 157 Kg. Auch sind seit 2016 statt 26 Liter Tankinhalt nunoch 22 Liter Tankinhalt erlaubt. In der MotoGp sind keinerlei Vorschriften über die Bremsbelege vorhanden. Zurzeit dürfen Rennfahrer der MotoGP pro Woche 12 mal das Hinterrad und 10 mal das Vorderrad wechseln. Daraus resultierend haben sich die Felgengrößen von 16,5 auf 17 Zoll vergrößert. Bei schlechten Wetter kann auf "Wet Race" deklariert werden, was den Fahrern erlaubt ihr Motorrad zu wechseln. Dies ist jedoch nur erlaubt, wenn die weiße Flagge gezeigt wird. Jedoch wird bei zu schlechten Wetterverhältnissen das Rennen unterbrochen, da nicht nur Reifen, sondern auch Bremsbelege erneut werden müssen. Gewinner der Sasion wird der Fahrer, mit den meisten Punkten.  </h4>
+<h2> Technik </h2>
+<h4> Eine Regeländerung welche 2007 kurzzeitig den maximalen Hubraum auf 800 cm*3 setzte, führte zu keiner bessern Sicherheit für die Fahrer, da diese auf Graden ähnliche Endgeschwindigkeiten erreichten und dafür um 5-20 Km/h schneller in die Kurven ging, weil ihr Motorrad leichter als zuvor war. Seit 2008 verwenden Suzuki, Kawasaki, Honda und Yamaha pneumatische Ventilfederung, da Ducati aufgrund der Neugestaltung der 800 cm*3 Motorräder Spitzenreiter war und ein ähnliches System zum Einsatz 2007 brachte, um Leistungsprobleme in den unteren Drehzahlenbereich vermeiden zu können. Seit 2010 ist die 1000 cm*3 Technik wieder erlaubt. Dadurch kommen die aktuellen Motorräder der MotoGP auf 265 PS. Die höchsterreichteste Geschwindigkeit wurde von Andrea Iannone mit 354,9 Km/h aufgestellt.</h4>
+<h1 id="motorradsport">Motorradsport</h1><h2 id="motogp">MotoGP</h2><h2 id="isle-of-man-tt">Isle of Man TT</h2>
