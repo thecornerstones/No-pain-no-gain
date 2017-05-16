@@ -87,8 +87,8 @@ Der erfolgreicheste deutsche Rennenfahrer Siegfried Schauzu hat bisher neun Mal 
 <h4> Eine Regeländerung welche 2007 kurzzeitig den maximalen Hubraum auf 800 cm*3 setzte, führte zu keiner bessern Sicherheit für die Fahrer, da diese auf Graden ähnliche Endgeschwindigkeiten erreichten und dafür um 5-20 Km/h schneller in die Kurven ging, weil ihr Motorrad leichter als zuvor war. Seit 2008 verwenden Suzuki, Kawasaki, Honda und Yamaha pneumatische Ventilfederung, da Ducati aufgrund der Neugestaltung der 800 cm*3 Motorräder Spitzenreiter war und ein ähnliches System zum Einsatz 2007 brachte, um Leistungsprobleme in den unteren Drehzahlenbereich vermeiden zu können. Seit 2010 ist die 1000 cm*3 Technik wieder erlaubt. Dadurch kommen die aktuellen Motorräder der MotoGP auf 265 PS. Die höchste Geschwindigkeit wurde von Andrea Iannone mit 354,9 Km/h aufgestellt.</h4>
 
 <h6> Einzelnachweise zuletzt am 16.05.2017 abgerufen. </h6>
-<a href="https://www.iomtt.com/" /a> 
-<a https://de.wikipedia.org/wiki/Isle_of_Man_TT /a>
-<a https://de.wikipedia.org/wiki/MotoGP /a>
-<a https://www.youtube.com/watch?v=XtZlm9Lp7q4  /a>  
+<a href="https://www.iomtt.com/" /> 
+<a https://de.wikipedia.org/wiki/Isle_of_Man_TT />
+<a https://de.wikipedia.org/wiki/MotoGP />
+<a https://www.youtube.com/watch?v=XtZlm9Lp7q4  />  
 
