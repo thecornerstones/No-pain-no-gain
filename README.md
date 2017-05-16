@@ -41,11 +41,13 @@ seit 1907
 das älteste, gefährlichste und umstrittentes Motorradrennen der Welt!
 seit 1911 sind 252 Rennfahrer gestorben. </h4>
 
-<h4> HIER FÜR VIDEO DRAUFKLICKEN </h4>
+
 
 <a href="https://www.youtube.com/watch?v=XtZlm9Lp7q4/" />
 
 <h2> Strecke </h2>
+
+<h4> HIER FÜR VIDEO DRAUFKLICKEN </h4>
 
 <h4> Die Strecke besteht aus normalen Straßen, welche um einen Berg gehen. Der Kurs wird Snaefell Mountain Course.
 Die Strecke ist eine der bedeutesten Rennen. In Douglas beginnt und endet das Rennen. Die Länge der Strecke beträgt 60.725 KM.
