@@ -1,3 +1,4 @@
+
 l# Gruppe: no-pain-no-gain
 ## Thema: Sport
 |MotoGP|Futsal|Volleyball|
@@ -15,6 +16,11 @@ Im Laufe der letzen Jahre wurde die Rotationsregel eingeführt. Das bedeutet, da
 <a href="http://images.sportlerfrage.net/media/video/127_original.jpg">http://images.sportlerfrage.net/media/video/127_original.jpg</a>
 <h4>Diese Regel ist Grundlage eines Volleyballspielers. Aber es gibt natürlich noch andere Regeln:
 Wie bei fast allen Spielen gibt es ein Aus. Wenn eine Mannschaft ihren Ball in das Aus schlägt so hat die gegnerische Mannschaft einen Punkt errungen. In einem Spielzug darf jede Mannschaft höchstens 3 mal den Ball berühren und muss anschließend den Ball über das Netz auf die gegnerische Mannschaft schlagen. Diese muss wiederum versuchen den Ball rüberzubekommen. Eine weitere Regel ist, dass ein Spieler nicht über die Mittellinie unter dem Netz treten darf. Auch wenn die Berührung des Netzes mit einem Körperteil wird als ein Fehler gepfiffen. Doch der Ball kannn mit jedem Körperteil gespielt werden. Diese Regel kam im Laufe der Jahre hinzu, denn früher durfte man nur mit den Händen spielen. Bei dem Aufschlag gibt es auch ein paar Regeln. So darf der Ball bei einem Aufschalg nicht länger als 8 Sekundne gehlten werden und muss in der Zeit in die gegnerische Hälfte gespielt werden. Beim Aufschlag muss der Ball geschlagen werden und darf nicht mit beiden Händen oder auch nur mit einer Hand geworfen werden.
+Falls der Ball von einem Mitspieler ausserhalb der Zonen also ins Aus gespielt wird, so kann man diesen doch noch retten, sofern der Ball davor nicht den Boden berührt.
+<h2>Technicken</h2>
+<h4>In dieser Sportart gibt es verschiedene Technicken. So zum Beispiel das Pritschen oder das Baggern und echten. Auch beim Aufschlag gibt es verschiedene Technicken.
+<h3>Pritschen
+
 <h1> Isle of man tt </h1>
 
 <h2> Allgemeine Informationen </h2> 
