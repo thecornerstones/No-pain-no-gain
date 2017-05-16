@@ -17,12 +17,17 @@ Im Laufe der letzen Jahre wurde die Rotationsregel eingeführt. Das bedeutet, da
 <h4>Diese Regel ist Grundlage eines Volleyballspielers. Aber es gibt natürlich noch andere Regeln:
 Wie bei fast allen Spielen gibt es ein Aus. Wenn eine Mannschaft ihren Ball in das Aus schlägt so hat die gegnerische Mannschaft einen Punkt errungen. In einem Spielzug darf jede Mannschaft höchstens 3 mal den Ball berühren und muss anschließend den Ball über das Netz auf die gegnerische Mannschaft schlagen. Diese muss wiederum versuchen den Ball rüberzubekommen. Eine weitere Regel ist, dass ein Spieler nicht über die Mittellinie unter dem Netz treten darf. Auch wenn die Berührung des Netzes mit einem Körperteil wird als ein Fehler gepfiffen. Doch der Ball kannn mit jedem Körperteil gespielt werden. Diese Regel kam im Laufe der Jahre hinzu, denn früher durfte man nur mit den Händen spielen. Bei dem Aufschlag gibt es auch ein paar Regeln. So darf der Ball bei einem Aufschalg nicht länger als 8 Sekundne gehlten werden und muss in der Zeit in die gegnerische Hälfte gespielt werden. Beim Aufschlag muss der Ball geschlagen werden und darf nicht mit beiden Händen oder auch nur mit einer Hand geworfen werden.
 Falls der Ball von einem Mitspieler ausserhalb der Zonen also ins Aus gespielt wird, so kann man diesen doch noch retten, sofern der Ball davor nicht den Boden berührt.
-<h2>Technicken</h2>
-<h4>In dieser Sportart gibt es verschiedene Technicken. So zum Beispiel das Pritschen oder das Baggern und echten. Auch beim Aufschlag gibt es verschiedene Technicken.
+<h2>Techniken</h2>
+<h4>In dieser Sportart gibt es verschiedene Techniken. So zum Beispiel das Pritschen oder das Baggern und das Hechten. Auch beim Aufschlag gibt es verschiedene Techniken.
 <h3>Pritschen</h3>
 <h4>Pritschen nennt man das obere Zuspiel und wird lediglich mit den Fingern oder Fingerspitzen ausgeführt. Dabei geht man leicht in die Hocke und versucht dann anschließend den Ball, dem Spieler am Netz vorne zu zuspielen, sodass dieser wiederum den Ball hochspielen kann und ein driter Spieler den Ball in die gegnerische Hälfte schmettern kann.</h4>
 <h3>Baggern</h3>
 <h4>Baggern ist nichts anderes als das Zuspiel von unten um den Ball anschließend hoczubaggern für einen anderne Spieler. Diese Technick wird oft benutzt wenn der Ball dem Boden schon sehr nahe ist. Dann geht man anschließend in die Hocke und baggert ihn nach oben.</h4>
+<h3>Hechten</h3>
+<h4>Diese Technik hift einem Spieler den Ball in letzer Sekunde zu retten. Das bedeutet, dass der Spieler sich nach ddem Ball wirft und ihn dann schlißlich irgdenwie wieder hoch zu spielen. Somit wurden schon oft Bälle gerettet und selbst in die Zuschauermengen wurde mehrmals hineingehechtet.</h4>
+<h3>Schmetterschlag</h3>
+<h4>Einer der berühmtesten Techniken ist der Schmetterschlag. Wie der Name Schon sagt wird der Ball in die gegnerische Hälfte geschmettert um es den Gegnern so schwer wie möglich zu machen. Dabei wird der Ball von einem Mitpieler hoch gebaggert oder gepritscht. Währendessen nimmt ein Spieler Anlauf und spirngt je nachedem wie hoch der Ball ist, hoch um ihn dann mit der flachen Hand in die generische Hälfte zu bugsieren.Solche Schmetterschläge sind meistens sehr schwer zu halten. Wenn man ihn doch bekommt, so ist zu beachten, dass man die Arme nur dagegenhält und selber kein Schwung ausführt, da der Ball höchstwahrscheinlich zu weit fliegt.</h4>
+<h3>Aufschläge</h3>
 <h1> Isle of man tt </h1>
 
 <h2> Allgemeine Informationen </h2> 
