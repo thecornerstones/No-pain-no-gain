@@ -1,8 +1,8 @@
 <h1>no-pain-no-gain</h1>
  <h1>Thema: Sport</h1>
-|MotoGP|Futsal|Volleyball|
-|---|---|---|
-|Tristan|Nils|Josh|
+Volleyball  | MotorGP | Futsal 
+-------- | -------- | --------
+Josh   | Tristan   | Nils
 
 
 
