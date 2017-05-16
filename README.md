@@ -73,6 +73,7 @@ Der erfolgreicheste deutsche Rennenfahrer Siegfried Schauzu hat bisher neun Mal 
 <h2> Allgemeines </h2>
 
 <h4> Die MotoGP gehört zum Strassenrennsport mit der höchsten Rennklasse. Seit 2002 wurde die 500-cm*3-Klasse von 1949 abgelöst druch die MotoGP.  </h4>
+
 <a href="https://www.youtube.com/watch?v=XtZlm9Lp7q4" /a>
 
 <h2> Regeln </h2>
