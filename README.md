@@ -1,6 +1,5 @@
-4
-l# Gruppe: no-pain-no-gain
-## Thema: Sport
+<h1>no-pain-no-gain</h1>
+ <h1>Thema: Sport</h1>
 |MotoGP|Futsal|Volleyball|
 |---|---|---|
 |Tristan|Nils|Josh|
@@ -24,7 +23,7 @@ Falls der Ball von einem Mitspieler ausserhalb der Zonen also ins Aus gespielt w
 <h3>Baggern</h3>
 <h4>Baggern ist nichts anderes als das Zuspiel von unten um den Ball anschließend hoczubaggern für einen anderne Spieler. Diese Technick wird oft benutzt wenn der Ball dem Boden schon sehr nahe ist. Dann geht man anschließend in die Hocke und baggert ihn nach oben.</h4>
 <h3>Hechten</h3>
-<h4>Diese Technik hift einem Spieler den Ball in letzer Sekunde zu retten. Das bedeutet, dass der Spieler sich nach ddem Ball wirft und ihn dann schlißlich irgdenwie wieder hoch zu spielen. Somit wurden schon oft Bälle gerettet und selbst in die Zuschauermengen wurde mehrmals hineingehechtet.</h4>
+<h4>Diese Technik hilft einem Spieler den Ball in letzer Sekunde zu retten. Das bedeutet, dass der Spieler sich nach ddem Ball wirft und ihn dann schlißlich irgdenwie wieder hoch zu spielen. Somit wurden schon oft Bälle gerettet und selbst in die Zuschauermengen wurde mehrmals hineingehechtet.</h4>
 <h3>Schmetterschlag</h3>
 <h4>Einer der berühmtesten Techniken ist der Schmetterschlag. Wie der Name Schon sagt wird der Ball in die gegnerische Hälfte geschmettert um es den Gegnern so schwer wie möglich zu machen. Dabei wird der Ball von einem Mitpieler hoch gebaggert oder gepritscht. Währendessen nimmt ein Spieler Anlauf und spirngt je nachedem wie hoch der Ball ist, hoch um ihn dann mit der flachen Hand in die generische Hälfte zu bugsieren.Solche Schmetterschläge sind meistens sehr schwer zu halten. Wenn man ihn doch bekommt, so ist zu beachten, dass man die Arme nur dagegenhält und selber kein Schwung ausführt, da der Ball höchstwahrscheinlich zu weit fliegt.</h4>
 <h3>Aufschläge</h3>
