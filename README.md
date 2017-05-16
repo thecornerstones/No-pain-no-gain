@@ -1,4 +1,4 @@
-
+4
 l# Gruppe: no-pain-no-gain
 ## Thema: Sport
 |MotoGP|Futsal|Volleyball|
@@ -22,7 +22,7 @@ Falls der Ball von einem Mitspieler ausserhalb der Zonen also ins Aus gespielt w
 <h3>Pritschen</h3>
 <h4>Pritschen nennt man das obere Zuspiel und wird lediglich mit den Fingern oder Fingerspitzen ausgeführt. Dabei geht man leicht in die Hocke und versucht dann anschließend den Ball, dem Spieler am Netz vorne zu zuspielen, sodass dieser wiederum den Ball hochspielen kann und ein driter Spieler den Ball in die gegnerische Hälfte schmettern kann.</h4>
 <h3>Baggern</h3>
-<h2>Baggern ist nichts anderes als das Zuspiel von unten um den Ball anschließend hoczubaggern für einen anderne Spieler. Diese Technick wird oft benutzt wenn der Ball dem Boden schon sehr nahe ist. Dann geht man anschließend in die Hocke und baggert ihn nach oben.</h2>
+<h4>Baggern ist nichts anderes als das Zuspiel von unten um den Ball anschließend hoczubaggern für einen anderne Spieler. Diese Technick wird oft benutzt wenn der Ball dem Boden schon sehr nahe ist. Dann geht man anschließend in die Hocke und baggert ihn nach oben.</h4>
 <h1> Isle of man tt </h1>
 
 <h2> Allgemeine Informationen </h2> 
