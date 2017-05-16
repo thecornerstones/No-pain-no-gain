@@ -41,7 +41,7 @@ seit 1907
 das älteste, gefährlichste und umstrittentes Motorradrennen der Welt!
 seit 1911 sind 252 Rennfahrer gestorben. </h4>
 
-
+<a href="https://www.google.de/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjJ2K6U6PTTAhVHvRoKHRfgDpYQjRwIBw&url=http%3A%2F%2Fwww.motorsport-magazin.com%2Fmotogp%2Fnews.html&psig=AFQjCNHMB0smWD3i2HCkn_DZj2pWVXbrHQ&ust=1495037837000030">
 
 <a href="https://www.youtube.com/watch?v=XtZlm9Lp7q4/" />
 
